@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-zoom-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.0.0-rc.1"
+  }
+}
